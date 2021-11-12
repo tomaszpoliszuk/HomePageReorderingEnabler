@@ -1,0 +1,10 @@
+Package: com.tomaszpoliszuk.homepagereorderingenabler
+Depends: firmware (>= 14.0), firmware (<< 15.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | com.tomaszpoliszuk.homepageeditingenabler
+Name: Home Page Reordering Enabler
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Home Page Reordering in Page Editing view
+Author: Tomasz Poliszuk
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
